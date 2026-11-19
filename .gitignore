@@ -15,3 +15,6 @@ _*.png
 # 打包
 *.zip
 node_modules/
+
+# 上传脚本日志
+upload-log.txt
